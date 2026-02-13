@@ -1,4 +1,7 @@
-## Hi there 👋
+## Howdy! 👋
+
+### I’m currently learning: 
+  - The basics of Networking & Cyber Security!
 
 <!--
 **LackofAppeal/LackOfAppeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
